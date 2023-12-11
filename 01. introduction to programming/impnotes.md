@@ -1,23 +1,24 @@
 <h1 style="text-align: center;">Class 01- Introduction to Programming</h1>
-# Algorithm 
-- a set of instrituon to solve a problam called algorithem.
+
+# Algorithm
+a set of instrituon to solve a problam called algorithem
 
 
 # pseudocode
 pseudocode is a way of represiting your logic in simple language
 
-example-
-take 2 input A & B
-sum = A+B
-print sum
+example- <br>
+take 2 input A & B <br>
+sum = A+B <br>
+print sum <br>
 
 
 # flowcharts - 
-a digram that represents an algorithm, called flowchart <br>
-<img src="https://i.pinimg.com/564x/99/91/24/9991246baa761e7cede10df3113d9193.jpg" alt="flowchart components">
+<h3> a digram that represents an algorithm, called flowchart </h3> <br>
+<img src="https://i.pinimg.com/564x/99/91/24/9991246baa761e7cede10df3113d9193.jpg" alt="flowchart components"> 
 
 
-ex- draw a flowchart for print sum of a&b. <br>
+<h3> ex- draw a flowchart for print sum of a&b </h3>
 <img src="https://www.sarthaks.com/?qa=blob&qa_blobid=15937017576254356139" alt="Flowchart for printing sum of A and B">
 
 
